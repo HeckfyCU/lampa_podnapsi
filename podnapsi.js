@@ -87,7 +87,7 @@
 
     Lampa.Plugins.add({
         name: "Podnapisi",
-        description: "Плагин для загрузки субтитров через Podnapisi.net",
+        description: "Плагин для автоматической загрузки субтитров через Podnapisi.net",
         author: "@HeckfyCU",
         version: "1.0.0",
         start: initializePlugin
